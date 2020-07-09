@@ -2,8 +2,9 @@
  Design of a photo gallery web app, based on SASS and Javascript, in addition to using a webpack to organize distributions
  
 ### Instalation
- npm i
+ `npm i`
 
 ### Execution
- npm start
+ `npm start`
+ 
  http://localhost:9000 on your preffered browser
