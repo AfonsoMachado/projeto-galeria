@@ -1,0 +1,7 @@
+// Importando o bootstrap na aplicação de dentro de note_modules
+@import "~bootstrap/scss/bootstrap";
+// Diretório das fontes
+$fa-font-path: "~font-awesome/fonts";
+@import "~font-awesome/scss/font-awesome";
+// Usando para gerar o css final usando os imports anteriores
+@import "custom"
